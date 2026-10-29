@@ -415,15 +415,15 @@ Upload to GitHub Pages for free hosting.
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2026-10-29 113906.png>)
+![alt text](photo1.png)
 
-![alt text](<../Screenshot 2026-10-29 113917.png>)
+![alt text](photo2.png)
 
-![alt text](<../Screenshot 2026-10-29 113924.png>)
+![alt text](photo3.png)
 
-![alt text](<../Screenshot 2026-10-29 113932.png>)
+![alt text](photo4.png)
 
-![alt text](<../Screenshot 2026-10-29 113943.png>)
+![alt text](photo5.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
