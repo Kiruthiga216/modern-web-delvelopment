@@ -417,13 +417,5 @@ Upload to GitHub Pages for free hosting.
 
 ![alt text](photo1.png)
 
-![alt text](photo2.png)
-
-![alt text](photo3.png)
-
-![alt text](photo4.png)
-
-![alt text](photo5.png)
-
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
